@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: demo17
+
+server:
+  port: 8080
+  tomcat:
+    threads:
+      max: 80
