@@ -6,4 +6,4 @@ server:
   port: 8080
   tomcat:
     threads:
-      max: 80
+      max: 1
